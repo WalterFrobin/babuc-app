@@ -1,10 +1,10 @@
-package com.techamist.babucapp.demo;
+package com.techamist.babucapp;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+public class ApplicationTests {
 
 	@Test
 	void contextLoads() {
